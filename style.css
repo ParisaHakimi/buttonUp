@@ -1,0 +1,35 @@
+.container {
+  margin: 50px;
+}
+button {
+  text-transform: capitalize;
+  font-family: sans-serif;
+}
+.search {
+  background-color: whitesmoke;
+  border-radius: 15px;
+  border: 2px solid teal;
+  color: teal;
+  width: 180px;
+  padding: 8px;
+  font-weight: 700;
+}
+.positive {
+  margin: 30px 0;
+  border-radius: 50%;
+  background-color: teal;
+  color: #fff;
+  width: 40px;
+  height: 40px;
+  border: 1px solid teal;
+  font-size: 20px;
+}
+.account {
+  width: 200px;
+  background-color: dodgerblue;
+  color: #fff;
+  padding: 7px;
+  border: 2px solid #000;
+  font-size: 16px;
+  box-shadow: 3px 3px 0 #000;
+}
